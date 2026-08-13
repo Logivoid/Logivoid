@@ -113,26 +113,6 @@ SOFTWARE          mobile applications, APIs and database-backed systems
 
 ---
 
-## `> github_telemetry`
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api?username=logivoid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=logivoid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## `> contribution_stream`
 
 <div align="center">
@@ -166,16 +146,6 @@ SOFTWARE          mobile applications, APIs and database-backed systems
 />
 
 </div>
-
----
-
-## `> languages`
-
-```text
-Arabic     Native
-English    Fluent
-German     Intermediate
-```
 
 ---
 
