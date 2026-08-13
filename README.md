@@ -4,31 +4,19 @@
 
 ### Computer Engineering • UAV Systems • Autonomous Robotics • AI Automation • Blockchain Research
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+initializing+profile...;%3E+building+autonomous+systems;%3E+engineering+UAV+control+architectures;%3E+researching+MEV+mitigation;%3E+automating+engineering+workflows;%3E+status%3A+online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+initializing+profile...;%3E+building+autonomous+systems;%3E+engineering+UAV+control+architectures;%3E+researching+MEV+mitigation;%3E+automating+engineering+workflows;%3E+status%3A+online" alt="Typing SVG" />
 
 </div>
 
 ---
 
-```text
-┌─ SYSTEM.INFO ─────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  user           Ahmad Hassan                                                 │
-│  handle         logivoid                                                     │
-│  field          Computer Engineering                                         │
-│  education      Beirut Arab University · B.E. Computer Engineering           │
-│  focus          UAV · Robotics · Embedded Systems · AI Automation · MEV       │
-│  location       Beirut, Lebanon                                              │
-│  status         Building · Researching · Learning · Shipping                 │
-│                                                                              │
-│  languages      Python · C · C++ · Embedded C · C# · JavaScript · TypeScript │
-│  systems        ESP32 · Embedded Control · Sensor Fusion · Real-Time Systems │
-│  software       React Native · Expo · REST APIs · JSON · Unity 6             │
-│  database       MongoDB · SQL · Database Design                              │
-│  tools          Git · GitHub                                                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="./assets/system-info.svg" width="100%" alt="Animated System Info" />
+
+</div>
+
+---
 
 ## `> whoami`
 
@@ -51,6 +39,8 @@ logivoid = {
     "location": "Lebanon"
 }
 ```
+
+---
 
 ## `> technical_stack`
 
@@ -91,6 +81,8 @@ logivoid = {
 
 </div>
 
+---
+
 ## `> engineering_capabilities`
 
 ```text
@@ -106,6 +98,8 @@ logivoid = {
 [10] Technical Research & Rapid Prototyping
 ```
 
+---
+
 ## `> current_focus`
 
 ```text
@@ -116,6 +110,8 @@ AI_AUTOMATION     engineering workflow automation and intelligent tools
 BLOCKCHAIN        quantum-assisted MEV mitigation research
 SOFTWARE          mobile applications, APIs and database-backed systems
 ```
+
+---
 
 ## `> selected_projects`
 
@@ -160,7 +156,9 @@ SOFTWARE          mobile applications, APIs and database-backed systems
 
 - Built a physics-based 3D motorcycle game using Unity 6 and C#
 - Implemented motorcycle dynamics, collision behavior and responsive controls
-- Developed camera systems, user-interface elements and performance optimizations
+- Developed camera systems, UI elements and performance optimizations
+
+---
 
 ## `> education`
 
@@ -170,21 +168,27 @@ Bachelor of Engineering (B.E.) · Computer Engineering
 2023 → 2026 (Expected)
 ```
 
+---
+
 ## `> courses_and_certifications`
 
 ```text
-Harvard University         CS50's Introduction to Computer Science       ✓
-Microsoft                  Power BI · MLflow · Fabric · Azure            ongoing
-Princeton University       Computer Architecture                         ongoing
-Google Career Certificates Advanced Data Analytics                       ongoing
+Harvard University          CS50's Introduction to Computer Science       ✓
+Microsoft                   Power BI · MLflow · Fabric · Azure            ongoing
+Princeton University        Computer Architecture                         ongoing
+Google Career Certificates  Advanced Data Analytics                       ongoing
 ```
+
+---
 
 ## `> experience`
 
 ### `AD Rent a Car // Technical Operations Assistant`
 **Beirut, Lebanon · Dec 2022 → May 2025**
 
-Supported scheduling, document management, internal process organization, client communications and operational coordination in a fast-paced business environment.
+Supported scheduling, document management, internal process organization, client communications, and operational coordination in a fast-paced business environment.
+
+---
 
 ## `> github_telemetry`
 
@@ -202,6 +206,8 @@ Supported scheduling, document management, internal process organization, client
 
 </div>
 
+---
+
 ## `> contribution_stream`
 
 <div align="center">
@@ -214,6 +220,8 @@ Supported scheduling, document management, internal process organization, client
 
 </div>
 
+---
+
 ## `> activity`
 
 <div align="center">
@@ -222,6 +230,8 @@ Supported scheduling, document management, internal process organization, client
 
 </div>
 
+---
+
 ## `> languages`
 
 ```text
@@ -229,6 +239,8 @@ Arabic     Native
 English    Fluent
 German     Intermediate
 ```
+
+---
 
 ## `> connect`
 
