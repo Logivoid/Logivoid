@@ -212,21 +212,33 @@ Supported scheduling, document management, internal process organization, client
 
 <div align="center">
 
+`CONTRIBUTION_FEED // LIVE`
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/logivoid/logivoid/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Logivoid contribution stream"
+  />
 </picture>
 
-</div>
+<br>
 
----
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logivoid&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=logivoid&bg_color=0D1117&color=00E5FF&line=7C3AED&point=14F195&area=true&hide_border=true"
+  width="100%"
+  alt="Logivoid activity graph"
+/>
 
 </div>
 
