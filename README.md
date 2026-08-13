@@ -2,86 +2,189 @@
 
 # `logivoid@dev`
 
-### Computer Engineering • AI Automation • Full-Stack Development
+### Computer Engineering • UAV Systems • Autonomous Robotics • AI Automation • Blockchain Research
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+initializing+profile...;%3E+building+intelligent+systems;%3E+automating+workflows;%3E+shipping+real-world+software;%3E+status%3A+online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+initializing+profile...;%3E+building+autonomous+systems;%3E+engineering+UAV+control+architectures;%3E+researching+MEV+mitigation;%3E+automating+engineering+workflows;%3E+status%3A+online" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ```text
-┌─ SYSTEM.INFO ─────────────────────────────────────────────────────────────┐
-│                                                                          │
-│  user           Ahmad                                                    │
-│  handle         logivoid                                                 │
-│  field          Computer Engineering                                     │
-│  focus          AI Automation · Full-Stack · Intelligent Systems         │
-│  location       Lebanon                                                  │
-│  status         Building · Learning · Shipping                           │
-│                                                                          │
-│  languages      Python · JavaScript · TypeScript · C · C++               │
-│  frontend       React · Vite · HTML · CSS                                │
-│  backend        Node.js · Express                                        │
-│  database       MongoDB                                                  │
-│  tools          Git · GitHub · Docker · Postman                          │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+┌─ SYSTEM.INFO ─────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  user           Ahmad Hassan                                                 │
+│  handle         logivoid                                                     │
+│  field          Computer Engineering                                         │
+│  education      Beirut Arab University · B.E. Computer Engineering           │
+│  focus          UAV · Robotics · Embedded Systems · AI Automation · MEV       │
+│  location       Beirut, Lebanon                                              │
+│  status         Building · Researching · Learning · Shipping                 │
+│                                                                              │
+│  languages      Python · C · C++ · Embedded C · C# · JavaScript · TypeScript │
+│  systems        ESP32 · Embedded Control · Sensor Fusion · Real-Time Systems │
+│  software       React Native · Expo · REST APIs · JSON · Unity 6             │
+│  database       MongoDB · SQL · Database Design                              │
+│  tools          Git · GitHub                                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-## `> about_me`
+## `> whoami`
 
-I build practical software at the intersection of **computer engineering, AI automation, full-stack development, and intelligent systems**.
+Computer Engineering student focused on **UAV systems, embedded engineering, autonomous robotics, blockchain infrastructure research, and AI-driven engineering workflows**.
 
-My current direction is focused on turning repetitive workflows into automated systems, building reliable web applications, and exploring how AI can be integrated into real engineering products.
+I work across hardware-software systems: embedded control, sensor integration, flight stabilization, robotics architectures, database-backed applications, and experimental distributed-systems research.
 
 ```python
 logivoid = {
+    "name": "Ahmad Hassan",
     "field": "Computer Engineering",
-    "focus": ["AI Automation", "Full-Stack Development", "Intelligent Systems"],
-    "currently_building": True,
-    "always_learning": True,
+    "focus": [
+        "UAV Systems",
+        "Autonomous Robotics",
+        "Embedded Systems",
+        "AI Automation",
+        "Blockchain / MEV Research"
+    ],
+    "status": "building",
+    "location": "Lebanon"
 }
 ```
 
-## `> tech_stack`
+## `> technical_stack`
 
 <div align="center">
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00E5FF)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF)
 
-### Development
+### Embedded / Robotics
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00E5FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00E5FF)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=00E5FF)
+![Embedded C](https://img.shields.io/badge/Embedded_C-0D1117?style=for-the-badge&logo=arduino&logoColor=00E5FF)
+![Robotics](https://img.shields.io/badge/Autonomous_Robotics-0D1117?style=for-the-badge&logo=ros&logoColor=00E5FF)
+![UAV](https://img.shields.io/badge/UAV_Systems-0D1117?style=for-the-badge&logo=probot&logoColor=00E5FF)
+
+### Application Development
+
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=00E5FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
+![JSON](https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=00E5FF)
 
-### Tools
+### Engineering / Research
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00E5FF)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00E5FF)
+![Unity](https://img.shields.io/badge/Unity_6-0D1117?style=for-the-badge&logo=unity&logoColor=00E5FF)
+![AI](https://img.shields.io/badge/AI_Automation-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF)
+![Blockchain](https://img.shields.io/badge/Blockchain_Research-0D1117?style=for-the-badge&logo=ethereum&logoColor=00E5FF)
 
 </div>
+
+## `> engineering_capabilities`
+
+```text
+[01] UAV Systems & Autonomous Robotics
+[02] Embedded Systems & Flight Control
+[03] Sensor Fusion & Real-Time Systems
+[04] PID Control & Flight Stabilization
+[05] ESP32-Based Embedded Development
+[06] REST APIs & JSON Integration
+[07] MongoDB, SQL & Database Design
+[08] AI Automation Workflows
+[09] MEV & Blockchain Research
+[10] Technical Research & Rapid Prototyping
+```
 
 ## `> current_focus`
 
 ```text
-[01] AI agents & workflow automation
-[02] MERN applications
-[03] Backend architecture & APIs
-[04] Intelligent engineering systems
-[05] Robotics & autonomous systems
+UAV_CONTROL       developing embedded flight-control architectures
+ROBOTICS          designing transformable aerial-terrestrial systems
+AUTONOMY          sensor integration, state logic and stabilization
+AI_AUTOMATION     engineering workflow automation and intelligent tools
+BLOCKCHAIN        quantum-assisted MEV mitigation research
+SOFTWARE          mobile applications, APIs and database-backed systems
 ```
+
+## `> selected_projects`
+
+### `01 // Autonomous Quadcopter Flight Control`
+**Lead Designer & Developer** · Dec 2025
+
+- Designed a custom ESP32-based flight-control system
+- Developed custom PID stabilization algorithms
+- Integrated IMU sensors through I2C and SPI
+- Tuned controllers to improve dynamic stability and response latency
+
+### `02 // Quantum-Based MEV Mitigation in Blockchain Virtual Machines`
+**Independent Theoretical Research** · Ongoing
+
+- Investigating quantum-generated randomness for transaction ordering
+- Developing a theoretical quantum-assisted MEV mitigation framework
+- Studying validator incentives, decentralized execution models and MEV dynamics
+
+### `03 // Hybrid Aerial-Terrestrial Robotic Platform — Morpho Bot`
+**Research & Development** · In Development
+
+- Leading conceptual and architectural design of a transformable robotic platform
+- Developing embedded control architecture for multimodal operation
+- Investigating stabilization, sensor integration and transition-state logic
+
+### `04 // Multi-Purpose Reconnaissance UAV System`
+**UAV Systems Developer** · In Development
+
+- Developing a custom 3D-printed UAV for reconnaissance and search operations
+- Integrating SpeedyBee flight-control systems and embedded hardware
+- Optimizing control responsiveness, stability and system reliability
+
+### `05 // Cinema Management System`
+**Software Developer** · Mar 2024
+
+- Built a C-based management system for scheduling, reservations and seat allocation
+- Implemented customer records and administrative functionality
+- Structured the system into modular components
+
+### `06 // 3D Motorcycle Physics Game`
+**Unity 6 Game Developer** · Apr 2024
+
+- Built a physics-based 3D motorcycle game using Unity 6 and C#
+- Implemented motorcycle dynamics, collision behavior and responsive controls
+- Developed camera systems, user-interface elements and performance optimizations
+
+## `> education`
+
+```text
+Beirut Arab University
+Bachelor of Engineering (B.E.) · Computer Engineering
+2023 → 2026 (Expected)
+```
+
+## `> courses_and_certifications`
+
+```text
+Harvard University         CS50's Introduction to Computer Science       ✓
+Microsoft                  Power BI · MLflow · Fabric · Azure            ongoing
+Princeton University       Computer Architecture                         ongoing
+Google Career Certificates Advanced Data Analytics                       ongoing
+```
+
+## `> experience`
+
+### `AD Rent a Car // Technical Operations Assistant`
+**Beirut, Lebanon · Dec 2022 → May 2025**
+
+Supported scheduling, document management, internal process organization, client communications and operational coordination in a fast-paced business environment.
 
 ## `> github_telemetry`
 
@@ -111,19 +214,6 @@ logivoid = {
 
 </div>
 
-> The contribution snake appears after the `snake.yml` GitHub Action is added and run once.
-
-## `> featured_work`
-
-### 🏛️ Municipal Systems
-Full-stack applications designed to digitize operational workflows and replace manual processes with structured, auditable systems.
-
-### 🤖 AI Automation
-Automation workflows, AI-assisted processes, agents, integrations, and intelligent backend services.
-
-### 🦾 Robotics & Intelligent Systems
-Engineering projects combining software, sensing, autonomous decision-making, and robotics.
-
 ## `> activity`
 
 <div align="center">
@@ -132,15 +222,23 @@ Engineering projects combining software, sensing, autonomous decision-making, an
 
 </div>
 
+## `> languages`
+
+```text
+Arabic     Native
+English    Fluent
+German     Intermediate
+```
+
 ## `> connect`
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-logivoid-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/logivoid)
+[![Email](https://img.shields.io/badge/Email-ahmxdhn%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:ahmxdhn@gmail.com)
 
-<!-- Add your links when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF)](YOUR_PORTFOLIO_URL)
+<!-- Add your exact LinkedIn URL here when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Hassan-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](YOUR_LINKEDIN_URL)
 -->
 
 </div>
@@ -150,9 +248,9 @@ Engineering projects combining software, sensing, autonomous decision-making, an
 <div align="center">
 
 ```text
-logivoid@dev:~$ build --learn --iterate --ship
+logivoid@dev:~$ build --research --iterate --ship
 ```
 
-<sub>ENGINEERING / AUTOMATION / INTELLIGENCE</sub>
+<sub>ENGINEERING / AUTONOMY / INTELLIGENCE</sub>
 
 </div>
