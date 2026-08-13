@@ -117,15 +117,17 @@ SOFTWARE          mobile applications, APIs and database-backed systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=logivoid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF" alt="GitHub stats" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=logivoid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00E5FF"
+  alt="GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logivoid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=logivoid&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=logivoid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
+  alt="Top Languages"
+/>
 
 </div>
 
